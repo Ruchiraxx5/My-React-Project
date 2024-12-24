@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.36f00ede.css",
+    "main.js": "/static/js/main.2f2febd6.js",
+    "static/js/511.893bfd38.chunk.js": "/static/js/511.893bfd38.chunk.js",
+    "static/media/Aboutus.png": "/static/media/Aboutus.e8d96022a28e03317c56.png",
+    "static/media/Logo.jpg": "/static/media/Logo.8f6b43f62d3181c35f8c.jpg",
+    "static/media/photo.jpg": "/static/media/photo.4f7c4504bac1b281bf37.jpg",
+    "index.html": "/index.html",
+    "main.36f00ede.css.map": "/static/css/main.36f00ede.css.map",
+    "main.2f2febd6.js.map": "/static/js/main.2f2febd6.js.map",
+    "511.893bfd38.chunk.js.map": "/static/js/511.893bfd38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36f00ede.css",
+    "static/js/main.2f2febd6.js"
+  ]
+}
