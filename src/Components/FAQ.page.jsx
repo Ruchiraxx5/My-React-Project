@@ -29,7 +29,9 @@ const FAQPage = () => {
               <strong>Answer:</strong> If you are not able to login, please make sure you have signed up first. First go to the 
               Sign up page it is located in the navigation bar on the top of the screen, as well as below the Login form. Enter your details 
               and click on submit, you will now be able to login successfully. 
-              <code></code>, 
+
+              
+
             </div>
           </div>
         </div>
