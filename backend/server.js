@@ -1,8 +1,12 @@
+require('dotenv').config();
+
 const express = require('express');
 const bodyParser = require('body-parser');
 const admin = require('firebase-admin');
 const cors = require('cors');
-const serviceAccount = require('./serviceAccountKey'); 
+
+const serviceAccount = require(process.env.FIREBASE_SERVICE_ACCOUNT_PATH);
+
 
 
 admin.initializeApp({
